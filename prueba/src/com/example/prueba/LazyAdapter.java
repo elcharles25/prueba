@@ -5,8 +5,6 @@ import java.util.HashMap;
 
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.drawable.Drawable;
-import android.os.Debug;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,6 +18,7 @@ public class LazyAdapter extends BaseAdapter {
     private Activity activity;
     private ArrayList<HashMap<String, String>> data;
     private static LayoutInflater inflater=null;
+    final int stub_id = R.drawable.ic_launcher;
  
     public LazyAdapter(Activity a, ArrayList<HashMap<String, String>> d) {
         activity = a;
@@ -61,7 +60,12 @@ public class LazyAdapter extends BaseAdapter {
         //Setting an image
         String url = "drawable/"+ song.get(CustomizedListView.KEY_THUMB_URL);
         int imageResource = vi.getResources().getIdentifier(url, null, vi.getContext().getApplicationContext().getPackageName());
-        thumb_image.setImageResource(imageResource);
+        if(imageResource!=0){
+        	System.out.println(url + "," + imageResource);
+        	thumb_image.setImageResource(imageResource);
+        } else {
+        	thumb_image.setImageResource(stub_id);
+        }
         
         return vi;
     }

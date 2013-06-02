@@ -54,23 +54,21 @@ descarga2
 <title>Life For Rent</title>
 <artist>Dido</artist>
 <duration>3:41</duration>
-<thumb_url>http://api.androidhive.info/music/images/dido.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/dido.png1</thumb_url>
 </song>
 <song>
 <id>8</id>
 <title>Love To See You Cry</title>
 <artist>Enrique Iglesias</artist>
 <duration>4:07</duration>
-<thumb_url>
-http://api.androidhive.info/music/images/enrique.png
-</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/enrique.png2</thumb_url>
 </song>
 <song>
 <id>9</id>
 <title>The Good, The Bad And The Ugly</title>
 <artist>Ennio Morricone</artist>
 <duration>2:42</duration>
-<thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/ennio.png3</thumb_url>
 </song>
 <song>
 <id>10</id>
@@ -78,7 +76,7 @@ http://api.androidhive.info/music/images/enrique.png
 <artist>Backstreet Boys</artist>
 <duration>3:56</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/backstreet_boys.png
+http://api.androidhive.info/music/images/backstreet_boys.png4
 </thumb_url>
 </song>
 <song>
@@ -86,7 +84,7 @@ http://api.androidhive.info/music/images/backstreet_boys.png
 <title>Someone Like You</title>
 <artist>Adele</artist>
 <duration>4:47</duration>
-<thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/adele.png5</thumb_url>
 </song>
 <song>
 <id>12</id>
@@ -94,7 +92,7 @@ http://api.androidhive.info/music/images/backstreet_boys.png
 <artist>Eminem</artist>
 <duration>4:38</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/eminem.png
+http://api.androidhive.info/music/images/eminem.png6
 </thumb_url>
 </song>
 <song>
@@ -102,7 +100,7 @@ http://api.androidhive.info/music/images/eminem.png
 <title>Stranger In Moscow</title>
 <artist>Michael Jackson</artist>
 <duration>5:44</duration>
-<thumb_url>http://api.androidhive.info/music/images/mj.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/mj.png7</thumb_url>
 </song>
 <song>
 <id>14</id>
@@ -110,7 +108,7 @@ http://api.androidhive.info/music/images/eminem.png
 <artist>Rihanna</artist>
 <duration>4:23</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/rihanna.png
+http://api.androidhive.info/music/images/rihanna.png8
 </thumb_url>
 </song>
 <song>
@@ -119,7 +117,7 @@ http://api.androidhive.info/music/images/rihanna.png
 <artist>A R Rehman</artist>
 <duration>6:58</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/arrehman.png
+http://api.androidhive.info/music/images/arrehman.png9
 </thumb_url>
 </song>
 <song>
@@ -128,7 +126,7 @@ http://api.androidhive.info/music/images/arrehman.png
 <artist>Alexi Murdoch</artist>
 <duration>4:47</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/alexi_murdoch.png
+http://api.androidhive.info/music/images/alexi_murdoch.png10
 </thumb_url>
 </song>
 <song>
@@ -136,7 +134,7 @@ http://api.androidhive.info/music/images/alexi_murdoch.png
 <title>Life For Rent</title>
 <artist>Dido</artist>
 <duration>3:41</duration>
-<thumb_url>http://api.androidhive.info/music/images/dido.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/dido.png11</thumb_url>
 </song>
 <song>
 <id>18</id>
@@ -144,7 +142,7 @@ http://api.androidhive.info/music/images/alexi_murdoch.png
 <artist>Enrique Iglesias</artist>
 <duration>4:07</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/enrique.png
+http://api.androidhive.info/music/images/enrique.png12
 </thumb_url>
 </song>
 <song>
@@ -152,7 +150,7 @@ http://api.androidhive.info/music/images/enrique.png
 <title>The Good, The Bad And The Ugly</title>
 <artist>Ennio Morricone</artist>
 <duration>2:42</duration>
-<thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/ennio.png13</thumb_url>
 </song>
 <song>
 <id>20</id>
@@ -160,7 +158,7 @@ http://api.androidhive.info/music/images/enrique.png
 <artist>Backstreet Boys</artist>
 <duration>3:56</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/backstreet_boys.png
+http://api.androidhive.info/music/images/backstreet_boys.png14
 </thumb_url>
 </song>
 <song>
@@ -168,7 +166,7 @@ http://api.androidhive.info/music/images/backstreet_boys.png
 <title>Someone Like You</title>
 <artist>Adele</artist>
 <duration>4:47</duration>
-<thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/adele.png15</thumb_url>
 </song>
 <song>
 <id>22</id>
@@ -176,7 +174,7 @@ http://api.androidhive.info/music/images/backstreet_boys.png
 <artist>Eminem</artist>
 <duration>4:38</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/eminem.png
+http://api.androidhive.info/music/images/eminem.png16
 </thumb_url>
 </song>
 <song>
@@ -184,7 +182,7 @@ http://api.androidhive.info/music/images/eminem.png
 <title>Stranger In Moscow</title>
 <artist>Michael Jackson</artist>
 <duration>5:44</duration>
-<thumb_url>http://api.androidhive.info/music/images/mj.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/mj.png17</thumb_url>
 </song>
 <song>
 <id>24</id>
@@ -192,7 +190,7 @@ http://api.androidhive.info/music/images/eminem.png
 <artist>Rihanna</artist>
 <duration>4:23</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/rihanna.png
+http://api.androidhive.info/music/images/rihanna.png18
 </thumb_url>
 </song>
 <song>
@@ -201,7 +199,7 @@ http://api.androidhive.info/music/images/rihanna.png
 <artist>A R Rehman</artist>
 <duration>6:58</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/arrehman.png
+http://api.androidhive.info/music/images/arrehman.png19
 </thumb_url>
 </song>
 <song>
@@ -210,7 +208,7 @@ http://api.androidhive.info/music/images/arrehman.png
 <artist>Alexi Murdoch</artist>
 <duration>4:47</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/alexi_murdoch.png
+http://api.androidhive.info/music/images/alexi_murdoch.png20
 </thumb_url>
 </song>
 <song>
@@ -218,7 +216,7 @@ http://api.androidhive.info/music/images/alexi_murdoch.png
 <title>Life For Rent</title>
 <artist>Dido</artist>
 <duration>3:41</duration>
-<thumb_url>http://api.androidhive.info/music/images/dido.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/dido.png21</thumb_url>
 </song>
 <song>
 <id>28</id>
@@ -226,7 +224,7 @@ http://api.androidhive.info/music/images/alexi_murdoch.png
 <artist>Enrique Iglesias</artist>
 <duration>4:07</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/enrique.png
+http://api.androidhive.info/music/images/enrique.png22
 </thumb_url>
 </song>
 <song>
@@ -234,7 +232,7 @@ http://api.androidhive.info/music/images/enrique.png
 <title>The Good, The Bad And The Ugly</title>
 <artist>Ennio Morricone</artist>
 <duration>2:42</duration>
-<thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
+<thumb_url>http://api.androidhive.info/music/images/ennio.png23</thumb_url>
 </song>
 <song>
 <id>30</id>
@@ -242,7 +240,7 @@ http://api.androidhive.info/music/images/enrique.png
 <artist>Backstreet Boys</artist>
 <duration>3:56</duration>
 <thumb_url>
-http://api.androidhive.info/music/images/backstreet_boys.png
+http://api.androidhive.info/music/images/backstreet_boys.png24
 </thumb_url>
 </song>
 </music>
