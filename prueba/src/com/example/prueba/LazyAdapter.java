@@ -61,7 +61,6 @@ public class LazyAdapter extends BaseAdapter {
         String url = "drawable/"+ song.get(CustomizedListView.KEY_THUMB_URL);
         int imageResource = vi.getResources().getIdentifier(url, null, vi.getContext().getApplicationContext().getPackageName());
         if(imageResource!=0){
-        	System.out.println(url + "," + imageResource);
         	thumb_image.setImageResource(imageResource);
         } else {
         	thumb_image.setImageResource(stub_id);

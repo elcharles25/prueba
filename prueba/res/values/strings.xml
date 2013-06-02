@@ -7,5 +7,6 @@
     <string name="duration">1,34</string>
     <string name="artist">Carlod</string>
     <string name="image_desc"/>
+    <string name="search">Search</string>
 
 </resources>
